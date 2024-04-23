@@ -13,4 +13,3 @@ I'm Tien Le (aka Cá), a 16-year old of Chuyen Nguyen Tat Thanh Kon Tum high sch
 ***
 
 ## And thank you for checking out my profile!
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
