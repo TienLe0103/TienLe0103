@@ -7,3 +7,10 @@ I'm Tien Le (aka Cá), a 16-year old of Chuyen Nguyen Tat Thanh Kon Tum high sch
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TienLe0103&theme=tokyonight&layout=compact&hide_border=true)](https://qtpc.tech)
 ***
+## Links:
+[![fb](https://img.shields.io/badge/Facebook-Tien%20Le-blue?style=flat&logo=facebook)](http://facebook.com/tienle0103)
+[![codeforces Badge](http://mosesxu.ca/judge-badge/codeforces/tienle0103)](https://codeforces.com/profile/tienle0103)
+***
+
+## And thank you for checking out my profile!
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
