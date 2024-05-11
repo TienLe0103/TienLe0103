@@ -1,6 +1,6 @@
 .![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20there%20%F0%9F%91%8B&fontSize=90)
 # Welcome to my profile!
-I'm Tiến (aka Cá), 10th-grade student at Nguyen Tat Thanh Kon Tum Specialized High School.
+I'm Tiến (aka Cá), 10th-grade student at Nguyen Tat Thanh High School for the Gifted
 
 Indian Tech
 ***
